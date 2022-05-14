@@ -1,0 +1,2 @@
+# SequenciaCentena
+exericio SequenciaCentena
